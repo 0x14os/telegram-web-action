@@ -127,3 +127,35 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+*.lock
+*.DS_Store
+runtime
+session
+node_modules
+__pycache__
+venv/
+__MACOSX__
+
+**/__pycache__
+**/.DS_Store
+
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+runtime/
+*.lock
+.DS_Store
+node_modules/*
+
