@@ -1,18 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : andy-bak
- Source Server Type    : MySQL
- Source Server Version : 80028
- Source Host           : 207.154.228.100:3306
- Source Schema         : tgwc
-
- Target Server Type    : MySQL
- Target Server Version : 80028
- File Encoding         : 65001
-
- Date: 08/11/2022 09:22:10
-*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
